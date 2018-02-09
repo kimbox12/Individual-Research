@@ -2,6 +2,8 @@
 
 The purpose of this research is to develop the new movie recommendation system using genre information and text information to support the decision making of customers. 
 
+
+
 -	R script for data collection.R
 
 What I did was, first of all, I gathered raw Data from The Movie Database(TMDB) and The Numbers https://www.the-numbers.com/ Websites     using API and Web Scraping. 
@@ -14,8 +16,14 @@ as a result,i gathered and refined data
 final_merged_data_1.RData
 
 
+
+
 -	Sentiment analysis.R
 I did the sentiment analysis, to observe, whether the sentences in the overview(small description of the movie) are positive, neutral, and negative.
+
+As a result, i got the sentiment analysis using various types of word lexicon
+all_sentiment.RData
+
 
 
 
